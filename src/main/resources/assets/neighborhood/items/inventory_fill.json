@@ -1,7 +1,7 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "neighborhood:item/115"
+    "model": "neighborhood:item/inventory_fill"
   },
   "oversized_in_gui": true
 }

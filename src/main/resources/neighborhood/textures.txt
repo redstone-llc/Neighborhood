@@ -1,325 +1,440 @@
-Materials:Arcane Essence:000
-Materials:Clay Blend:001
-Tools:Cobalt Axe:002
-Tools:Cobalt Hoe:003
-Materials:Cobalt Ingot:004
-Materials:Cobalt Ore:005
-Tools:Cobalt Pickaxe:006
-Materials:Cobalt Plating:007
-Tools:Cobalt Shovel:008
-Weapons:Cobalt Sword:009
-Armor:Earthen Boots:010
-Armor:Earthen Chestplate:011
-Materials:Earthen Core:012
-Weapons:Earthen Greatsword:013
-Tools:Earthen Hammer:014
-Armor:Earthen Helmet:015
-Armor:Earthen Leggings:016
-Materials:Earthen Module:017
-Weapons:Earthen Scimitar:018
-Materials:Fire Essence:019
-Materials:Fire Manastone:020
-Armor:Forest Boots:021
-Armor:Forest Chestplate:022
-Materials:Forest Essence:023
-Armor:Forest Helmet:024
-Armor:Forest Leggings:025
-Materials:Greater Manastone:026
-Materials:Heavy Plating:027
-Miscellaneous:Infected Heart:028
-Weapons:Infernal Staff:029
-Materials:Leather Plating:030
-Materials:Lesser Manastone:031
-Materials:Manastone:032
-Weapons:Manastone Staff:033
-Miscellaneous:Mithril:034
-Armor:Mithril Boots:035
-Armor:Mithril Chestplate:036
-Materials:Mithril Fragment:037
-Armor:Mithril Helmet:038
-Armor:Mithril Leggings:039
-Materials:Mithril Plating:040
-Materials:Mithril Shard:041
-Weapons:Mithril Sword:042
-Armor:Mossy Boots:043
-Armor:Mossy Chestplate:044
-Armor:Mossy Helmet:045
-Armor:Mossy Leggings:046
-Tools:Platnium Axe:047
-Tools:Platnium Hoe:048
-Materials:Platnium Ingot:049
-Materials:Platnium Ore:050
-Tools:Platnium Pickaxe:051
-Materials:Platnium Plating:052
-Tools:Platnium Shovel:053
-Weapons:Platnium Sword:054
-Miscellaneous:Prismite:055
-Tools:Prismite Axe:056
-Tools:Prismite Hoe:057
-Tools:Prismite Pickaxe:058
-Weapons:Prismite Scythe:059
-Tools:Prismite Shovel:060
-Weapons:Prismite Staff:061
-Weapons:Prismite Sword:062
-Materials:Pure Mana:063
-Materials:Reinforced Clay:064
-Materials:Reinforced Plating:065
-Materials:Scorched Hide:066
-Tools:Silver Axe:067
-Tools:Silver Hoe:068
-Materials:Silver Ingot:069
-Materials:Silver Ore:070
-Tools:Silver Pickaxe:071
-Materials:Silver Plating:072
-Tools:Silver Shovel:073
-Weapons:Silver Sword:074
-Weapons:Skeletal Blade:075
-Weapons:Skeletal Greatsword:076
-Miscellaneous:Slime On A Stick:077
-Materials:Wind Essence:078
-Materials:Wind Manastone:079
-Weapons:Withered Blade:080
-Materials:Withered Bone:081
-Armor:Withered Boots:082
-Armor:Withered Chestplate:083
-Armor:Withered Helmet:084
-Armor:Withered Leggings:085
-Materials:Wtihered Plate:086
-Materials:Woven Arcane:087
-Materials:Woven Fire:088
-Materials:Woven Wind:089
-Miscellaneous:Custom Block:500
-Miscellaneous:Archeology Brush:090
-Miscellaneous:Arrow Left:091
-Miscellaneous:Arrow Return:092
-Miscellaneous:Arrow Right:093
-Miscellaneous:Checkpoint:094
-Miscellaneous:Coin:095
-Miscellaneous:Crate:096
-Miscellaneous:Gift:097
-Miscellaneous:Inventory Fill:115
-Miscellaneous:Itemname:\ufd4f
-Miscellaneous:Key:098
-Miscellaneous:Paint Brush:099
-Miscellaneous:Palette:100
-Materials:Ruby Large:101
-Materials:Ruby Medium:102
-Materials:Ruby Small:103
-Tools:Rugged Axe:104
-Tools:Rugged Hoe:105
-Tools:Rugged Pickaxe:106
-Tools:Rugged Shovel:107
-Weapons:Rugged Sword:108
-Materials:Sapphire Large:109
-Materials:Sapphire Medium:110
-Materials:Sapphire Small:111
-Materials:Topaz Large:112
-Materials:Topaz Medium:113
-Materials:Topaz Small:114
-Materials:Bronze Ingot:116
-Miscellaneous:Bronze Raw:117
-Materials:Cobalt Ingot:118
-Miscellaneous:Cobalt Raw:119
-Materials:Copper Ingot:120
-Miscellaneous:Copper Raw:121
-Materials:Dark Steel Ingot:122
-Miscellaneous:Dark Steel Raw:123
-Miscellaneous:Diamond:124
-Miscellaneous:Diamond Raw:125
-Materials:Electrum Ingot:126
-Miscellaneous:Electrum Raw:127
-Miscellaneous:Emerald:128
-Miscellaneous:Emerald Raw:129
-Materials:Gold Ingot:130
-Miscellaneous:Gold Raw:131
-Materials:Iron Ingot:132
-Miscellaneous:Iron Raw:133
-Materials:Netherite Ingot:134
-Miscellaneous:Netherite Raw:135
-Materials:Silver Ingot:136
-Miscellaneous:Silver Raw:137
-Materials:Tin Ingot:138
-Miscellaneous:Tin Raw:139
-Materials:Titanium Ingot:140
-Miscellaneous:Titanium Raw:141
-Materials:Tungsten Ingot:142
-Miscellaneous:Tungsten Raw:143
-Tools:Bronze Axe:144
-Miscellaneous:Bronze Cutlass:145
-Miscellaneous:Bronze Dagger:146
-Miscellaneous:Bronze Falchion:147
-Tools:Bronze Hoe:148
-Miscellaneous:Bronze Katana:149
-Miscellaneous:Bronze Mace:150
-Tools:Bronze Pickaxe:151
-Miscellaneous:Bronze Rapier:152
-Tools:Bronze Shovel:153
-Weapons:Bronze Sword:154
-Tools:Cobalt Axe:155
-Miscellaneous:Cobalt Cutlass:156
-Miscellaneous:Cobalt Dagger:157
-Miscellaneous:Cobalt Falchion:158
-Tools:Cobalt Hoe:159
-Miscellaneous:Cobalt Katana:160
-Miscellaneous:Cobalt Mace:161
-Tools:Cobalt Pickaxe:162
-Miscellaneous:Cobalt Rapier:163
-Tools:Cobalt Shovel:164
-Weapons:Cobalt Sword:165
-Tools:Copper Axe:166
-Miscellaneous:Copper Cutlass:167
-Miscellaneous:Copper Dagger:168
-Miscellaneous:Copper Falchion:169
-Tools:Copper Hoe:170
-Miscellaneous:Copper Katana:171
-Miscellaneous:Copper Mace:172
-Tools:Copper Pickaxe:173
-Miscellaneous:Copper Rapier:174
-Tools:Copper Shovel:175
-Weapons:Copper Sword:176
-Tools:Dark Steel Axe:177
-Miscellaneous:Dark Steel Cutlass:178
-Miscellaneous:Dark Steel Dagger:179
-Miscellaneous:Dark Steel Falchion:180
-Tools:Dark Steel Hoe:181
-Miscellaneous:Dark Steel Katana:182
-Miscellaneous:Dark Steel Mace:183
-Tools:Dark Steel Pickaxe:184
-Miscellaneous:Dark Steel Rapier:185
-Tools:Dark Steel Shovel:186
-Weapons:Dark Steel Sword:187
-Tools:Diamond Axe:188
-Miscellaneous:Diamond Cutlass:189
-Miscellaneous:Diamond Dagger:190
-Miscellaneous:Diamond Falchion:191
-Tools:Diamond Hoe:192
-Miscellaneous:Diamond Katana:193
-Miscellaneous:Diamond Mace:194
-Tools:Diamond Pickaxe:195
-Miscellaneous:Diamond Rapier:196
-Tools:Diamond Shovel:197
-Weapons:Diamond Sword:198
-Tools:Electrum Axe:199
-Miscellaneous:Electrum Cutlass:200
-Miscellaneous:Electrum Dagger:201
-Miscellaneous:Electrum Falchion:202
-Tools:Electrum Hoe:203
-Miscellaneous:Electrum Katana:204
-Miscellaneous:Electrum Mace:205
-Tools:Electrum Pickaxe:206
-Miscellaneous:Electrum Rapier:207
-Tools:Electrum Shovel:208
-Weapons:Electrum Sword:209
-Tools:Emerald Axe:210
-Miscellaneous:Emerald Cutlass:211
-Miscellaneous:Emerald Dagger:212
-Miscellaneous:Emerald Falchion:213
-Tools:Emerald Hoe:214
-Miscellaneous:Emerald Katana:215
-Miscellaneous:Emerald Mace:216
-Tools:Emerald Pickaxe:217
-Miscellaneous:Emerald Rapier:218
-Tools:Emerald Shovel:219
-Weapons:Emerald Sword:220
-Tools:Gold Axe:221
-Miscellaneous:Gold Cutlass:222
-Miscellaneous:Gold Dagger:223
-Miscellaneous:Gold Falchion:224
-Tools:Gold Hoe:225
-Miscellaneous:Gold Katana:226
-Miscellaneous:Gold Mace:227
-Tools:Gold Pickaxe:228
-Miscellaneous:Gold Rapier:229
-Tools:Gold Shovel:230
-Weapons:Gold Sword:231
-Tools:Iron Axe:232
-Miscellaneous:Iron Cutlass:233
-Miscellaneous:Iron Dagger:234
-Miscellaneous:Iron Falchion:235
-Tools:Iron Hoe:236
-Miscellaneous:Iron Katana:237
-Miscellaneous:Iron Mace:238
-Tools:Iron Pickaxe:239
-Miscellaneous:Iron Rapier:240
-Tools:Iron Shovel:241
-Weapons:Iron Sword:242
-Tools:Netherite Axe:243
-Miscellaneous:Netherite Cutlass:244
-Miscellaneous:Netherite Dagger:245
-Miscellaneous:Netherite Falchion:246
-Tools:Netherite Hoe:247
-Miscellaneous:Netherite Katana:248
-Miscellaneous:Netherite Mace:249
-Tools:Netherite Pickaxe:250
-Miscellaneous:Netherite Rapier:251
-Tools:Netherite Shovel:252
-Weapons:Netherite Sword:253
-Tools:Silver Axe:254
-Miscellaneous:Silver Cutlass:255
-Miscellaneous:Silver Dagger:256
-Miscellaneous:Silver Falchion:257
-Tools:Silver Hoe:258
-Miscellaneous:Silver Katana:259
-Miscellaneous:Silver Mace:260
-Tools:Silver Pickaxe:261
-Miscellaneous:Silver Rapier:262
-Tools:Silver Shovel:263
-Weapons:Silver Sword:264
-Tools:Tin Axe:265
-Miscellaneous:Tin Cutlass:266
-Miscellaneous:Tin Dagger:267
-Miscellaneous:Tin Falchion:268
-Tools:Tin Hoe:269
-Miscellaneous:Tin Katana:270
-Miscellaneous:Tin Mace:271
-Tools:Tin Pickaxe:272
-Miscellaneous:Tin Rapier:273
-Tools:Tin Shovel:274
-Weapons:Tin Sword:275
-Tools:Titanium Axe:276
-Miscellaneous:Titanium Cutlass:277
-Miscellaneous:Titanium Dagger:278
-Miscellaneous:Titanium Falchion:279
-Tools:Titanium Hoe:280
-Miscellaneous:Titanium Katana:281
-Miscellaneous:Titanium Mace:282
-Tools:Titanium Pickaxe:283
-Miscellaneous:Titanium Rapier:284
-Tools:Titanium Shovel:285
-Weapons:Titanium Sword:286
-Tools:Tungsten Axe:287
-Miscellaneous:Tungsten Cutlass:288
-Miscellaneous:Tungsten Dagger:289
-Miscellaneous:Tungsten Falchion:290
-Tools:Tungsten Hoe:291
-Miscellaneous:Tungsten Katana:292
-Miscellaneous:Tungsten Mace:293
-Tools:Tungsten Pickaxe:294
-Miscellaneous:Tungsten Rapier:295
-Tools:Tungsten Shovel:296
-Weapons:Tungsten Sword:297
-Miscellaneous:Icon Bin:298
-Miscellaneous:Icon Biomes:299
-Miscellaneous:Icon Blocks:300
-Miscellaneous:Icon Build Mode:301
-Miscellaneous:Icon Collectibles:302
-Miscellaneous:Icon Food Pack:303
-Miscellaneous:Icon Furniture:304
-Miscellaneous:Icon Game Menu:305
-Miscellaneous:Icon Housing Menu:306
-Miscellaneous:Icon Items:307
-Miscellaneous:Icon Jukebox:308
-Miscellaneous:Icon Permissions:309
-Miscellaneous:Icon Plants:310
-Miscellaneous:Icon Player Listing:311
-Miscellaneous:Icon Protools:312
-Miscellaneous:Icon Pvp:313
-Miscellaneous:Icon Rain:314
-Miscellaneous:Icon Rewards:315
-Miscellaneous:Icon Settings:316
-Miscellaneous:Icon Skull Packs:317
-Miscellaneous:Icon Themes:318
-Miscellaneous:Icon Travel:319
-Miscellaneous:Icon Visibility:320
-Miscellaneous:Icon Visiting Rules:321
-Miscellaneous:Icon Weather:322
+Amethyst Shard:Materials
+Ancient Staff:Weapons
+Arcane Essence:Materials
+Archeology Brush:Miscellaneous
+Arrow Left:Miscellaneous
+Arrow Return:Miscellaneous
+Arrow Right:Miscellaneous
+Bed:Miscellaneous
+Blackstone Rubble:Materials
+Blue Potion:Miscellaneous
+Bomb:Miscellaneous
+Bronze Axe:Tools
+Bronze Cutlass:Weapons
+Bronze Dagger:Weapons
+Bronze Falchion:Weapons
+Bronze Hoe:Tools
+Bronze Ingot:Materials
+Bronze Katana:Weapons
+Bronze Mace:Weapons
+Bronze Ore:Materials
+Bronze Pickaxe:Tools
+Bronze Rapier:Weapons
+Bronze Raw:Materials
+Bronze Shovel:Tools
+Bronze Sword:Weapons
+Casted Axe:Tools
+Casted Blade:Weapons
+Casted Hoe:Tools
+Casted Pickaxe:Tools
+Casted Shovel:Tools
+Charred Bone:Materials
+Checkpoint:Miscellaneous
+Chest:Miscellaneous
+Claycast Axe:Tools
+Claycast Blade:Tools
+Claycast Dagger:Tools
+Clay Blend:Materials
+Cloak:Miscellaneous
+Cobalt Axe:Tools
+Cobalt Cutlass:Weapons
+Cobalt Dagger:Weapons
+Cobalt Falchion:Weapons
+Cobalt Hoe:Tools
+Cobalt Ingot:Materials
+Cobalt Katana:Weapons
+Cobalt Mace:Weapons
+Cobalt Ore:Materials
+Cobalt Pickaxe:Tools
+Cobalt Plating:Materials
+Cobalt Rapier:Weapons
+Cobalt Raw:Materials
+Cobalt Shovel:Tools
+Cobalt Sword:Weapons
+Coin:Miscellaneous
+Compressed Blade:Weapons
+Copper Axe:Tools
+Copper Cutlass:Weapons
+Copper Dagger:Weapons
+Copper Falchion:Weapons
+Copper Hoe:Tools
+Copper Ingot:Materials
+Copper Katana:Weapons
+Copper Mace:Weapons
+Copper Pickaxe:Tools
+Copper Rapier:Weapons
+Copper Raw:Materials
+Copper Shovel:Tools
+Copper Sword:Weapons
+Corrupted Wood:Materials
+Cracked Horn:Materials
+Crate:Miscellaneous
+Crimson Eye:Materials
+Crimson Heart:Materials
+Crushed Fluorite:Materials
+Cursed Tome:Materials
+Dark Steel Axe:Tools
+Dark Steel Cutlass:Weapons
+Dark Steel Dagger:Weapons
+Dark Steel Falchion:Weapons
+Dark Steel Hoe:Tools
+Dark Steel Ingot:Materials
+Dark Steel Katana:Weapons
+Dark Steel Mace:Weapons
+Dark Steel Pickaxe:Tools
+Dark Steel Rapier:Weapons
+Dark Steel Raw:Materials
+Dark Steel Shovel:Tools
+Dark Steel Sword:Weapons
+Diamond:Materials
+Diamond Axe:Tools
+Diamond Cutlass:Weapons
+Diamond Dagger:Weapons
+Diamond Falchion:Weapons
+Diamond Hoe:Tools
+Diamond Katana:Weapons
+Diamond Mace:Weapons
+Diamond Pickaxe:Tools
+Diamond Rapier:Weapons
+Diamond Raw:Materials
+Diamond Shovel:Tools
+Diamond Sword:Weapons
+Earthen Boots:Armor
+Earthen Chestplate:Armor
+Earthen Core:Materials
+Earthen Greatsword:Weapons
+Earthen Hammer:Weapons
+Earthen Helmet:Armor
+Earthen Leggings:Armor
+Earthen Module:Materials
+Earthen Scimitar:Weapons
+Electrum Axe:Tools
+Electrum Cutlass:Weapons
+Electrum Dagger:Weapons
+Electrum Falchion:Weapons
+Electrum Hoe:Tools
+Electrum Ingot:Materials
+Electrum Katana:Weapons
+Electrum Mace:Weapons
+Electrum Pickaxe:Tools
+Electrum Rapier:Weapons
+Electrum Raw:Materials
+Electrum Shovel:Tools
+Electrum Sword:Weapons
+Emerald:Materials
+Emerald Axe:Tools
+Emerald Cutlass:Weapons
+Emerald Dagger:Weapons
+Emerald Eye:Materials
+Emerald Falchion:Weapons
+Emerald Hoe:Tools
+Emerald Katana:Weapons
+Emerald Mace:Weapons
+Emerald Pickaxe:Tools
+Emerald Rapier:Weapons
+Emerald Raw:Materials
+Emerald Shovel:Tools
+Emerald Sword:Weapons
+Empty Staff:Weapons
+Energy Lance:Weapons
+Enhanced Arrow:Weapons
+Explosive Barrel:Miscellaneous
+Fire Essence:Materials
+Fire Manastone:Materials
+Flare Scroll:Materials
+Flint Axe:Tools
+Flower:Materials
+Flower Petal:Materials
+Fluorite Gemstone:Materials
+Forest Boots:Armor
+Forest Chestplate:Armor
+Forest Essence:Materials
+Forest Helmet:Armor
+Forest Leggings:Armor
+Gear:Miscellaneous
+Gift:Miscellaneous
+Gilded Axe:Tools
+Gilded Blade:Weapons
+Gilded Hoe:Tools
+Gilded Horn:Materials
+Gilded Ore:Materials
+Glass Teardrop:Materials
+Gold Axe:Tools
+Gold Cutlass:Weapons
+Gold Dagger:Weapons
+Gold Falchion:Weapons
+Gold Hoe:Tools
+Gold Ingot:Materials
+Gold Katana:Weapons
+Gold Mace:Weapons
+Gold Pickaxe:Tools
+Gold Rapier:Weapons
+Gold Raw:Materials
+Gold Shovel:Tools
+Gold Sword:Weapons
+Golem Core:Materials
+Golem Staff:Weapons
+Greater Manastone:Materials
+Green Potion:Miscellaneous
+Hammer:Weapons
+Handheld Cannon:Weapons
+Heavy Plating:Materials
+Horn:Materials
+House:Miscellaneous
+Icon Bin:Miscellaneous
+Icon Biomes:Miscellaneous
+Icon Blocks:Miscellaneous
+Icon Browser:Miscellaneous
+Icon Build Mode:Miscellaneous
+Icon Collectibles:Miscellaneous
+Icon Food Pack:Miscellaneous
+Icon Furniture:Miscellaneous
+Icon Game:Miscellaneous
+Icon Groups:Miscellaneous
+Icon Housing:Miscellaneous
+Icon Items:Miscellaneous
+Icon Jukebox:Miscellaneous
+Icon Plants:Miscellaneous
+Icon Player Listing:Miscellaneous
+Icon Protools:Miscellaneous
+Icon Pvp:Miscellaneous
+Icon Rain:Miscellaneous
+Icon Rewards:Miscellaneous
+Icon Settings:Miscellaneous
+Icon Skull Packs:Miscellaneous
+Icon Socialmode:Miscellaneous
+Icon Themes:Miscellaneous
+Icon Visibility:Miscellaneous
+Icon Visiting Rules:Miscellaneous
+Icon Weather:Miscellaneous
+Infected Heart:Materials
+Infernal Staff:Weapons
+Infused Ingot:Materials
+Infused Ore:Materials
+Inventory Fill:Miscellaneous
+Iron Axe:Tools
+Iron Cutlass:Weapons
+Iron Dagger:Weapons
+Iron Falchion:Weapons
+Iron Hoe:Tools
+Iron Ingot:Materials
+Iron Katana:Weapons
+Iron Mace:Weapons
+Iron Pickaxe:Tools
+Iron Rapier:Weapons
+Iron Raw:Materials
+Iron Shovel:Tools
+Iron Sword:Weapons
+Jagged Boneblade:Weapons
+Journal:Miscellaneous
+Katana Cutlass:Weapons
+Katana Dagger:Weapons
+Key:Miscellaneous
+Large Amethyst Shard:Materials
+Large Sapphire:Materials
+Lavacast Chesplate:Armor
+Lavacast Greatbow:Weapons
+Leather Plating:Materials
+Lesser Manastone:Materials
+Living Diamond Blade:Weapons
+Living Diamond Greatsword:Weapons
+Living Emerald Blade:Weapons
+Living Emerald Greatsword:Weapons
+Living Golden Blade:Weapons
+Living Iron Blade:Weapons
+Living Iron Greatsword:Weapons
+Living Stone Blade:Weapons
+Living Stone Greatsword:Weapons
+Living Wooden Blade:Weapons
+Manastone:Materials
+Manastone Staff:Weapons
+Mechanical Capsule:Materials
+Mithril:Materials
+Mithril Boots:Armor
+Mithril Chestplate:Armor
+Mithril Fragment:Materials
+Mithril Helmet:Armor
+Mithril Ingot:Materials
+Mithril Leggings:Armor
+Mithril Plating:Materials
+Mithril Shard:Materials
+Mithril Sword:Weapons
+Molten Blade:Weapons
+Moss:Materials
+Mossy Boots:Armor
+Mossy Chestplate:Armor
+Mossy Helmet:Armor
+Mossy Leggings:Armor
+Murasama:Weapons
+Natural Axe:Tools
+Natural Blade:Weapons
+Natural Hoe:Tools
+Natural Pickaxe:Tools
+Netherite Axe:Tools
+Netherite Cutlass:Weapons
+Netherite Dagger:Weapons
+Netherite Falchion:Weapons
+Netherite Hoe:Tools
+Netherite Ingot:Materials
+Netherite Katana:Weapons
+Netherite Mace:Weapons
+Netherite Pickaxe:Tools
+Netherite Rapier:Weapons
+Netherite Raw:Materials
+Netherite Shovel:Tools
+Netherite Sword:Weapons
+Otherworldly Shard:Materials
+Paint Brush:Miscellaneous
+Palette:Miscellaneous
+Palm Wood:Materials
+Pencil:Miscellaneous
+Platinum Axe:Tools
+Platinum Hoe:Tools
+Platinum Ingot:Materials
+Platinum Ore:Materials
+Platinum Pickaxe:Tools
+Platinum Plating:Materials
+Platinum Shovel:Tools
+Platinum Sword:Weapons
+Prismite:Materials
+Prismite Axe:Tools
+Prismite Hoe:Tools
+Prismite Pickaxe:Tools
+Prismite Scythe:Weapons
+Prismite Shovel:Tools
+Prismite Staff:Weapons
+Prismite Sword:Weapons
+Pure Mana:Materials
+Purple Potion:Miscellaneous
+Red Potion:Miscellaneous
+Reinforced Clay:Materials
+Reinforced Crossbow:Weapons
+Reinforced Leather:Materials
+Reinforced Plating:Materials
+Ruby:Materials
+Ruby Large:Materials
+Ruby Medium:Materials
+Ruby Shard:Materials
+Ruby Small:Materials
+Rugged Axe:Tools
+Rugged Hoe:Tools
+Rugged Pickaxe:Tools
+Rugged Shovel:Tools
+Rugged Sword:Weapons
+Sapphire:Materials
+Sapphire Blade:Weapons
+Sapphire Eye:Materials
+Sapphire Hammer:Weapons
+Sapphire Hoe:Tools
+Sapphire Large:Materials
+Sapphire Medium:Materials
+Sapphire Shard:Materials
+Sapphire Small:Materials
+Sapphire Staff:Weapons
+Scorched Hide:Materials
+Scroll:Miscellaneous
+Shadow Horn:Materials
+Silver Axe:Tools
+Silver Cutlass:Weapons
+Silver Dagger:Weapons
+Silver Falchion:Weapons
+Silver Hoe:Tools
+Silver Ingot:Materials
+Silver Katana:Weapons
+Silver Mace:Weapons
+Silver Ore:Materials
+Silver Pickaxe:Tools
+Silver Plating:Materials
+Silver Rapier:Weapons
+Silver Raw:Materials
+Silver Shovel:Tools
+Silver Sword:Weapons
+Skeletal Blade:Weapons
+Skeletal Greatsword:Weapons
+Skull:Miscellaneous
+Skyformed Blade:Weapons
+Slime On A Stick:Weapons
+Steel Axe:Tools
+Steel Crossbow:Weapons
+Steel Cuffs:Miscellaneous
+Steel Hoe:Tools
+Steel Sword:Weapons
+Stonewood Blade:Weapons
+Thunderforged Blade:Weapons
+Thunderforged Ingot:Materials
+Thunderforged Lance:Weapons
+Thunderforged Pickaxe:Tools
+Tin Axe:Tools
+Tin Cutlass:Weapons
+Tin Dagger:Weapons
+Tin Falchion:Weapons
+Tin Hoe:Tools
+Tin Ingot:Materials
+Tin Katana:Weapons
+Tin Mace:Weapons
+Tin Ore:Materials
+Tin Pickaxe:Tools
+Tin Rapier:Weapons
+Tin Raw:Materials
+Tin Shovel:Tools
+Tin Sword:Weapons
+Titanium Axe:Tools
+Titanium Falchion:Weapons
+Titanium Greatsword:Weapons
+Titanium Hoe:Tools
+Titanium Ingot:Materials
+Titanium Katana:Weapons
+Titanium Mace:Weapons
+Titanium Pickaxe:Tools
+Titanium Rapier:Weapons
+Titanium Raw:Materials
+Titanium Shovel:Tools
+Titanium Sword:Weapons
+Topaz Large:Materials
+Topaz Medium:Materials
+Topaz Small:Materials
+Tribal Mask:Miscellaneous
+True Living Blade:Weapons
+Tungsten Axe:Tools
+Tungsten Cutlass:Tools
+Tungsten Dagger:Weapons
+Tungsten Falchion:Weapons
+Tungsten Hoe:Tools
+Tungsten Ingot:Materials
+Tungsten Katana:Weapons
+Tungsten Mace:Weapons
+Tungsten Pickaxe:Tools
+Tungsten Rapier:Weapons
+Tungsten Raw:Materials
+Tungsten Shovel:Tools
+Tungsten Sword:Weapons
+Twisted Horn:Materials
+Umbral Axe:Tools
+Umbral Blade:Weapons
+Umbral Boots:Armor
+Umbral Chestplate:Armor
+Umbral Greatax:Weapons
+Umbral Hoe:Tools
+Umbral Leggings:Armor
+Umbral Ore:Materials
+Umbral Pickaxe:Tools
+Umbral Plating:Materials
+Umbral Shovel:Tools
+Uranium:Materials
+Uranium Shard:Materials
+Warbanner:Miscellaneous
+Warhorn:Materials
+Wind Essence:Materials
+Wind Manastone:Materials
+Withered Blade:Weapons
+Withered Bone:Materials
+Withered Boots:Armor
+Withered Chestplate:Armor
+Withered Helmet:Armor
+Withered Leggings:Armor
+Wooden Greatbow:Weapons
+Worn Paper:Materials
+Woven Arcane:Materials
+Woven Fire:Materials
+Woven Wind:Materials
+Wtihered Plate:Materials

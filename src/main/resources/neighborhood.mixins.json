@@ -2,9 +2,13 @@
   "required": true,
   "minVersion": "0.8",
   "package": "llc.redstone.neighborhood.mixin",
-  "compatibilityLevel": "JAVA_${java}",
-  "client": ["ItemModelResolverMixin"],
   "injectors": {
     "defaultRequire": 1
-  }
+  },
+  "mixins": [
+  ],
+  "client": [
+    "AbstractContainerScreenMixin",
+    "ItemModelResolverMixin"
+  ]
 }
