@@ -1,0 +1,24 @@
+# Gradle
+.gradle/
+build/
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Stonecutter
+versions/**/build/
+*/versions/**/build/
+.stonecutter-cache/
+
+# Minecraft dev runs
+run/
+*/run/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.classpath
+.project

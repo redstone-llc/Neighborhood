@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "neighborhood:item/115"
+  },
+  "oversized_in_gui": true
+}

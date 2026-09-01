@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "${id}",
+  "version": "${version}",
+  "name": "${name}",
+  "description": "Client-side HUD utilities.",
+  "authors": ["Sin_ender"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      {
+        "adapter": "kotlin",
+        "value": "llc.redstone.neighborhood.fabric.NeighborhoodFabric"
+      }
+    ]
+  },
+  "mixins": ["${id}.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19",
+    "minecraft": "${mc_dep}",
+    "java": ">=${java}",
+    "fabric-api": "*",
+    "fabric-language-kotlin": ">=1.13"
+  }
+}
