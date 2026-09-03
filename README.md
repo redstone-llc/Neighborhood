@@ -27,6 +27,6 @@ This is a latest version port of the [Neighbor](https://github.com/sinender/Neig
 
 <img src="src/main/resources/assets/neighborhood/screenshots/screenshot2.png" alt="Example 1">
 
-<img src="src/main/resources/assets/neighborhood/screenshots/screenshot1.png" alt="Example 2">
+<img src="src/main/resources/assets/neighborhood/screenshots/screenshot3.png" alt="Example 2">
 
-<img src="src/main/resources/assets/neighborhood/screenshots/screenshot1.png" alt="Example 3">
+<img src="src/main/resources/assets/neighborhood/screenshots/screenshot4.png" alt="Example 3">
