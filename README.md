@@ -20,3 +20,11 @@
 A native port of the [Neighbor](https://github.com/sinender/Neighbor) ChatTriggers module: the texture picker for the Neighborhood Pack in Hypixel Housing and resource pack.
 
 ## Screenshots
+
+<img src="src/main/resources/assets/neighborhood/screenshots/screenshot1.png" alt="Texture selection">
+
+<img src="src/main/resources/assets/neighborhood/screenshots/screenshot2.png" alt="Example 1">
+
+<img src="src/main/resources/assets/neighborhood/screenshots/screenshot1.png" alt="Example 2">
+
+<img src="src/main/resources/assets/neighborhood/screenshots/screenshot1.png" alt="Example 3">
