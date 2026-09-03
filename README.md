@@ -17,7 +17,9 @@
 
 ## Overview
 
-A native port of the [Neighbor](https://github.com/sinender/Neighbor) ChatTriggers module: the texture picker for the Neighborhood Pack in Hypixel Housing and resource pack.
+This mod lets you select from a long list of hand-crafted textures to apply to any item! The custom textures will display to anyone else with this mod installed.
+
+This is a latest version port of the [Neighbor](https://github.com/sinender/Neighbor) ChatTriggers module.
 
 ## Screenshots
 
