@@ -193,7 +193,7 @@ class TextureSelector(
                 } else {
                     Minecraft.getInstance().player?.setTexture(id)
                 }
-                Minecraft.getInstance().player?.setTexture(id)
+                setItems()
             }
         }
     }

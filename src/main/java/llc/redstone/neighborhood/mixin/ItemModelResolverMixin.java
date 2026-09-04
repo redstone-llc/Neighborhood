@@ -16,6 +16,9 @@ public class ItemModelResolverMixin {
         if (instance.get(DataComponents.CUSTOM_MODEL_DATA) == null) {
             return instance.get(DataComponents.ITEM_MODEL);
         }
+        if (instance.get(DataComponents.CUSTOM_MODEL_DATA).getString(0) == null) {
+            return instance.get(DataComponents.ITEM_MODEL);
+        }
         return Identifier.fromNamespaceAndPath("neighborhood", instance.get(DataComponents.CUSTOM_MODEL_DATA).getString(0));
     }
 }

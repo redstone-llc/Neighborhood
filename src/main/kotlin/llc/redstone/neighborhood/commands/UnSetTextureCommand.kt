@@ -14,7 +14,7 @@ import net.minecraft.world.entity.EquipmentSlot
 
 object UnSetTextureCommand {
     fun create(): LiteralArgumentBuilder<FabricClientCommandSource> =
-        literal("settexture")
+        literal("unsettexture")
             .executes(this::unset)
 
     fun unset(it: CommandContext<FabricClientCommandSource>): Int {
