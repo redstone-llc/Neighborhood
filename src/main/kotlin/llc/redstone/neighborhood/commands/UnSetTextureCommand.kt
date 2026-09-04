@@ -3,12 +3,16 @@ package llc.redstone.neighborhood.commands
 import com.mojang.brigadier.builder.LiteralArgumentBuilder
 import com.mojang.brigadier.context.CommandContext
 import llc.redstone.neighborhood.textures.Texture.Companion.setTexture
+//? if <26.1 {
 import net.fabricmc.fabric.api.client.command.v2.ClientCommandManager.literal
+//?} else {
+/*import net.fabricmc.fabric.api.client.command.v2.ClientCommands.literal
+*///?}
 import net.fabricmc.fabric.api.client.command.v2.FabricClientCommandSource
 import net.minecraft.network.chat.Component
 import net.minecraft.world.entity.EquipmentSlot
 
-class UnSetTextureCommand {
+object UnSetTextureCommand {
     fun create(): LiteralArgumentBuilder<FabricClientCommandSource> =
         literal("settexture")
             .executes(this::unset)

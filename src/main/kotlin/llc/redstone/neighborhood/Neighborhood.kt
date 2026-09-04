@@ -1,6 +1,7 @@
 package llc.redstone.neighborhood
 
 import llc.redstone.neighborhood.commands.SetTextureCommand
+import llc.redstone.neighborhood.commands.UnSetTextureCommand
 import llc.redstone.neighborhood.textures.Texture
 import net.fabricmc.api.ClientModInitializer
 import net.fabricmc.fabric.api.client.command.v2.ClientCommandRegistrationCallback
@@ -32,6 +33,7 @@ object Neighborhood: ClientModInitializer {
         ClientCommandRegistrationCallback.EVENT.register { dispatcher, registryAccess ->
             dispatcher.register(SetTextureCommand.create())
             dispatcher.register(SetTextureCommand.alias())
+            dispatcher.register(UnSetTextureCommand.create())
         }
     }
 }
