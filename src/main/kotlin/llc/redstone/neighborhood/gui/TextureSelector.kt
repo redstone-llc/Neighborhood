@@ -2,6 +2,7 @@ package llc.redstone.neighborhood.gui
 
 import it.unimi.dsi.fastutil.objects.ReferenceLinkedOpenHashSet
 import llc.redstone.neighborhood.textures.Texture
+import llc.redstone.neighborhood.textures.Texture.Companion.getTexture
 import llc.redstone.neighborhood.textures.Texture.Companion.setTexture
 import llc.redstone.neighborhood.utils.PaginationList
 import net.minecraft.client.Minecraft
@@ -75,7 +76,7 @@ class TextureSelector(
 
         contents.clearContent()
         currentPageItems?.forEachIndexed { index, texture ->
-            contents.setItem(slots[index], texture.toItemStack())
+            contents.setItem(slots[index], texture.toItemStack(Minecraft.getInstance().player?.getTexture() == texture.id))
         }
 
         //fill outside slots with empty items
@@ -187,6 +188,11 @@ class TextureSelector(
             45 -> clickCategory(Category.SEASONAL)
             in slots -> {
                 val id = item.get(DataComponents.ITEM_MODEL)?.path ?: return
+                if (Minecraft.getInstance().player?.getTexture() == id) {
+                    Minecraft.getInstance().player?.setTexture(null)
+                } else {
+                    Minecraft.getInstance().player?.setTexture(id)
+                }
                 Minecraft.getInstance().player?.setTexture(id)
             }
         }

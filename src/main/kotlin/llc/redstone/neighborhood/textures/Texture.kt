@@ -20,13 +20,16 @@ data class Texture(
     val id: String,
     val category: TextureSelector.Category
 ) {
-    fun toItemStack(): ItemStack {
+    fun toItemStack(active: Boolean): ItemStack {
         val item = ItemStack(Items.PAPER)
         item.set(DataComponents.ITEM_NAME, Component.literal("§a$name"))
         item.set(
             DataComponents.LORE,
-            ItemLore(listOf(Component.literal("§7ID: $id"), Component.empty(), Component.literal("§eClick to set")))
+            ItemLore(listOf(Component.literal("§7ID: $id"), Component.empty(), if (active) Component.literal("§cClick to reset") else Component.literal("§eClick to set")))
         )
+        if (active) {
+            item.set(DataComponents.ENCHANTMENT_GLINT_OVERRIDE, true)
+        }
         item.set(DataComponents.ITEM_MODEL, Identifier.fromNamespaceAndPath("neighborhood", id))
         return item
     }
@@ -55,11 +58,17 @@ data class Texture(
             Neighborhood.LOGGER.info("Loaded ${textures.size} textures from textures.txt")
         }
 
-        fun Player.setTexture(id: String) {
+        fun Player.getTexture(): String? {
+            val itemstack = this.mainHandItem
+            val customModelData = itemstack.get(DataComponents.CUSTOM_MODEL_DATA)
+            return customModelData?.strings?.firstOrNull()
+        }
+
+        fun Player.setTexture(id: String?) {
             val itemstack = this.mainHandItem.copy()
             itemstack.set(
                 DataComponents.CUSTOM_MODEL_DATA,
-                CustomModelData(emptyList(), emptyList(), listOf(id), emptyList())
+                CustomModelData(emptyList(), emptyList(), if (id != null) listOf(id) else emptyList(), emptyList())
             )
 
             Minecraft.getInstance().execute {
